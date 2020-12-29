@@ -10,13 +10,8 @@ Minecraft sunucularına Websend, Websender ve RCON ile komut gönderebilen ilk v
 
 ## Kurulum
 
-Eğer [Composer](https://getcomposer.org/), kullanıyorsanız kütüphaneyi aşağıdaki komutu çalıştırıp edinebilirsiniz:
-
-```
-composer require benegedeniz/mccom
-```
-
-Veya [buraya](https://github.com/BenEgeDeniz/McCom/releases) tıklayarak en son sürümü indirebilirsiniz.
+- [Buraya](https://github.com/BenEgeDeniz/McCom/releases) tıklayarak en son sürümü indirebilirsiniz.
+- src dizininde bulunan "mccom_autoloader.php" dosyasını PHP dosyanıza dahil edin.
 
 ## Kullanım
 
