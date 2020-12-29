@@ -39,8 +39,8 @@ else // Başarılı değilse,
 
 - Websend Sınıfı
 - WebsenderAPI Sınıfı
-- PHP-Minecraft-Rcon Sınıfı ([Github](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+- PHP-Minecraft-Rcon Sınıfı ([Github bağlantısı](https://github.com/thedudeguy/PHP-Minecraft-Rcon))
 
 ## Lisans
 
-### Bu kütüphane CC BY-NC-ND 4.0 lisansı altından sunulmaktadır. (Bakınız:  [https://github.com/thedudeguy/PHP-Minecraft-Rcon](https://creativecommons.org/licenses/by-nc-nd/4.0/))
+### Bu kütüphane CC BY-NC-ND 4.0 lisansı altından sunulmaktadır. (Bakınız:  [https://creativecommons.org/licenses/by-nc-nd/4.0](https://creativecommons.org/licenses/by-nc-nd/4.0))
