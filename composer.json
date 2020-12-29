@@ -17,8 +17,6 @@
         "php": ">=7.0.0"
     },
     "autoload": {
-        "psr-0": {
-            "McCom": "src"
-        }
+        "classmap": ["src/*"]
     }
 }
